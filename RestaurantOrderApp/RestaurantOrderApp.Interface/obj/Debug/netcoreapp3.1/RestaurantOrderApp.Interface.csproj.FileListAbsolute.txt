@@ -10,3 +10,15 @@ D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.csproj.CopyComplete
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.deps.json
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.csprojAssemblyReference.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.AssemblyInfoInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.AssemblyInfo.cs
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.csproj.CoreCompileInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.csproj.CopyComplete
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Interface\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb

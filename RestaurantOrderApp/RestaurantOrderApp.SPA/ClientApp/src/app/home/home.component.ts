@@ -34,7 +34,11 @@ export class HomeComponent {
       this.ios.push(new InputOutput( this.orderInput, this.orderOutput));
     }, error => {
         this.orderOutput = "";
-        alert(error.error);
+        if(error.status == 400)
+          alert(error.error);
+        else
+          alert(error.message);
+
         console.log(error);
     });
     

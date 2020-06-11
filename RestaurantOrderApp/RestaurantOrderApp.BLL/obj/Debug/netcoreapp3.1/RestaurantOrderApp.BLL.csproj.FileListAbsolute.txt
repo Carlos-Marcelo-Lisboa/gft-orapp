@@ -12,3 +12,17 @@ D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\De
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csproj.CopyComplete
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.dll
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.deps.json
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csprojAssemblyReference.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.AssemblyInfoInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.AssemblyInfo.cs
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csproj.CoreCompileInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csproj.CopyComplete
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.pdb

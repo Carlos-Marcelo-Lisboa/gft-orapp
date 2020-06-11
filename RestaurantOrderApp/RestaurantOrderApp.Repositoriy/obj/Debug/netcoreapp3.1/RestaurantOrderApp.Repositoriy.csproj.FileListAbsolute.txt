@@ -14,3 +14,19 @@ D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositori
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.dll
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.pdb
 D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.csproj.CoreCompileInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.deps.json
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.csprojAssemblyReference.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.AssemblyInfoInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.AssemblyInfo.cs
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.csproj.CoreCompileInputs.cache
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.csproj.CopyComplete
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.dll
+D:\source\GFT\RestaurantOrderApp\RestaurantOrderApp.Repositoriy\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Repositoriy.pdb

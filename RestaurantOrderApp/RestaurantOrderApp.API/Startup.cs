@@ -37,7 +37,7 @@ namespace RestaurantOrderApp.API
                 options.AddPolicy(name: allowedOriginsPoliceName,
                                   builder =>
                                   {
-                                      builder.WithOrigins("http://localhost:4200")
+                                      builder.WithOrigins(Configuration["AllowedOrigens"].Split(','))
                                       .AllowAnyMethod()
                                       .AllowAnyHeader()
                                       .AllowCredentials();
