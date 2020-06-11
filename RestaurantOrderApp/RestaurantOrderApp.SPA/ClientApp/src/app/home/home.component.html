@@ -1,0 +1,21 @@
+<h1>Order</h1>
+
+<p>Prossess the Order Input.</p>
+
+<p><input type="text" [(ngModel)]="orderInput"/></p>
+<p><button class="btn btn-primary" (click)="Process()">Process</button></p>
+<p><input type="text" [(ngModel)]="orderOutput" /></p>
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="ios">
+  <thead>
+    <tr>
+      <th>Input</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let io of ios">
+      <td>{{ io.input }}</td>
+      <td>{{ io.output }}</td>
+    </tr>
+  </tbody>
+</table>

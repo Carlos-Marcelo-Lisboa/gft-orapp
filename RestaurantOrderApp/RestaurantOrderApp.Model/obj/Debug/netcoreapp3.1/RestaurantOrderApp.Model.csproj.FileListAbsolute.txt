@@ -1,0 +1,9 @@
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.deps.json
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.AssemblyInfoInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.AssemblyInfo.cs
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.csproj.CoreCompileInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.Model\obj\Debug\netcoreapp3.1\RestaurantOrderApp.Model.csprojAssemblyReference.cache

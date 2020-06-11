@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Duji6HMaOFSsrJpzlbHffVF0Zwjw7VPLPIjR+xdVzkB1RRmXJTpMyxUGyW2Ukm6fx33OAnIwSV2QRdY/psTRqg==",
+  "success": true,
+  "projectFilePath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

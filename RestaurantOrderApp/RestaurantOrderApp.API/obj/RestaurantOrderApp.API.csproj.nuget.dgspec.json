@@ -1,0 +1,437 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.API\\RestaurantOrderApp.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.API\\RestaurantOrderApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.API\\RestaurantOrderApp.API.csproj",
+        "projectName": "RestaurantOrderApp.API",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.API\\RestaurantOrderApp.API.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\RestaurantOrderApp.Repositoriy.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\RestaurantOrderApp.Repositoriy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj",
+        "projectName": "RestaurantOrderApp.BLL",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\RestaurantOrderApp.BLL.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\RestaurantOrderApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\RestaurantOrderApp.DAL.csproj",
+        "projectName": "RestaurantOrderApp.DAL",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\RestaurantOrderApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj",
+        "projectName": "RestaurantOrderApp.Interface",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj",
+        "projectName": "RestaurantOrderApp.Model",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\RestaurantOrderApp.Repositoriy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\RestaurantOrderApp.Repositoriy.csproj",
+        "projectName": "RestaurantOrderApp.Repositoriy",
+        "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\RestaurantOrderApp.Repositoriy.csproj",
+        "packagesPath": "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Repositoriy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\RestaurantOrderApp.DAL.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.DAL\\RestaurantOrderApp.DAL.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj"
+              },
+              "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj": {
+                "projectPath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Model\\RestaurantOrderApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

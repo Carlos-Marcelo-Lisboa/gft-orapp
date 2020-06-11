@@ -1,0 +1,15 @@
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.deps.json
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.csprojAssemblyReference.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.AssemblyInfoInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.AssemblyInfo.cs
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.runtimeconfig.json
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.runtimeconfig.dev.json
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.csproj.CoreCompileInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.genruntimeconfig.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.DAL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.DAL.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.deps.json
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Interface.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\bin\Debug\netcoreapp3.1\RestaurantOrderApp.Model.pdb
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csprojAssemblyReference.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.AssemblyInfoInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.AssemblyInfo.cs
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csproj.CoreCompileInputs.cache
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.csproj.CopyComplete
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.dll
+D:\Carlos Marcelo\Documents\GFT\RestaurantOrderApp\RestaurantOrderApp.BLL\obj\Debug\netcoreapp3.1\RestaurantOrderApp.BLL.pdb

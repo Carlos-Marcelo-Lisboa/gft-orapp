@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVNPpGyl31uhv8xcqiu+MdaCKoeOAdq1LmEj680KGu0+5p9qupsLZtNqcF3epSadZDiLzz/l3noCiHAfQ7PQag==",
+  "success": true,
+  "projectFilePath": "D:\\Carlos Marcelo\\Documents\\GFT\\RestaurantOrderApp\\RestaurantOrderApp.Interface\\RestaurantOrderApp.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marcelo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

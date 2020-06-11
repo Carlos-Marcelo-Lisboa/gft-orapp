@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantOrderApp.DAL\RestaurantOrderApp.DAL.csproj" />
+    <ProjectReference Include="..\RestaurantOrderApp.Interface\RestaurantOrderApp.Interface.csproj" />
+    <ProjectReference Include="..\RestaurantOrderApp.Model\RestaurantOrderApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>
